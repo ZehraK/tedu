@@ -15,6 +15,8 @@ Analysis and recommendations to improve the quality of the work
 FILES
 
 Scripts |CODE| include R codes
+
 feature engineering |VIS | is about the visualization of the data, validity of the statements/variables and comparion within a group and in between groups
+
 hclust |VIS| clustering results
 
